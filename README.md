@@ -1,3 +1,3 @@
 # Cryptography
 
-A set of cryptographic tools for CTF competitions
+A toolkit for CTF competitions
