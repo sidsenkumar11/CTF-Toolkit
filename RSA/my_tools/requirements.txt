@@ -11,7 +11,7 @@ cffi==1.11.5
 chardet==3.0.4
 configglue==1.1.2
 configobj==5.0.6
-cryptography==2.1.4
+cryptography==3.2
 ecdsa==0.13
 enum34==1.1.6
 feedparser==5.1.3
