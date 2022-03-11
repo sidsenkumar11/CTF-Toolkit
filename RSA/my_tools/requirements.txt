@@ -37,7 +37,7 @@ PAM==0.4.2
 paramiko==2.4.0
 pbr==1.8.0
 pexpect==4.0.1
-Pillow==3.1.2
+Pillow==9.0.1
 piston-mini-client==0.7.5
 pluggy==0.6.0
 protobuf==2.6.1
