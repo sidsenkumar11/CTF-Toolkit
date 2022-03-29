@@ -34,7 +34,7 @@ oauthlib==1.0.3
 oneconf==0.3.9
 packaging==17.1
 PAM==0.4.2
-paramiko==2.4.0
+paramiko==2.10.1
 pbr==1.8.0
 pexpect==4.0.1
 Pillow==3.1.2
