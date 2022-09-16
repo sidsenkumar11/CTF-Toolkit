@@ -26,7 +26,7 @@ libnum==1.4
 libvirt-python==1.3.1
 lockfile==0.12.2
 lxml==3.5.0
-Mako==1.0.7
+Mako==1.2.2
 MarkupSafe==1.0
 nemo-emblems==3.6.0
 netifaces==0.10.4
